@@ -1,6 +1,6 @@
 <h4>olá! Sou Pedro Henrique</h4>
 <p>Sou estudante de Desenvolvimento Front-End</p>
-<p>Busco sempre melhorar e crescer masis e mais no ramo de desenvolvimento</p>
+<p>Busco sempre melhorar e crescer mais e mais no ramo de desenvolvimento</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
